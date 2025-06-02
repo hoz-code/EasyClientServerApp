@@ -1,0 +1,24 @@
+{
+  "name": "easyclient-serverapp",
+  "version": "1.0.0",
+  "description": "It is just a app send request to server and it response to client local",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoz-code/EasyClientServerApp.git"
+  },
+  "keywords": [
+    "Client",
+    "Server",
+    "App"
+  ],
+  "author": "hoz-code",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoz-code/EasyClientServerApp/issues"
+  },
+  "homepage": "https://github.com/hoz-code/EasyClientServerApp#readme"
+}
