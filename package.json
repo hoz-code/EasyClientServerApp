@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/hoz-code/EasyClientServerApp/issues"
   },
-  "homepage": "https://github.com/hoz-code/EasyClientServerApp#readme"
+  "homepage": "https://github.com/hoz-code/EasyClientServerApp#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
