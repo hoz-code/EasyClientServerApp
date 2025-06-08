@@ -2,7 +2,8 @@
   "name": "easyclient-serverapp",
   "version": "1.0.0",
   "description": "It is just a app send request to server and it response to client local",
-  "main": "index.js",
+  "main": "/projects/easyclient-serverapp/backend/app.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -23,5 +24,8 @@
   "homepage": "https://github.com/hoz-code/EasyClientServerApp#readme",
   "dependencies": {
     "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
   }
 }
